@@ -4,7 +4,7 @@ This is my Emergency Contact Alert System project developed using Python. It sim
 
 It is built using core Python concepts such as functions for modular design, dictionaries for storing contact data, lists for maintaining logs, loops and conditionals for program flow, and files handling for data persistence. It also uses built-in modules like datetime for timestamps and time for simulating alert processing, making it a practical implementation of foundational Python skills.
 
-## OBJECTIIVE:
+## OBJECTIVE:
 - To apply fundamental Python concepts in a real-world situations.  
 - To simulate an emergency alert mechanism. 
 - To develop problem-solving and logical thinking skills.  
