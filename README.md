@@ -1,4 +1,4 @@
-# EMERGENCY-CONTACT-ALERT-SIMULATION
+# EMERGENCY CONTACT ALERT SIMULATION
 ## PROJECT DESCRIPTION:
 This is my Emergency Contact Alert System project developed using Python. It simulates how a user can quickly send alert messages to pre-saved emergency contacts during emergency situations. The system allows users to manage contacts, trigger alerts, and maintain a log of previous alerts. It is designed as a simple yet practical application of core Python concepts.
 
